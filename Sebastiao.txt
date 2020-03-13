@@ -1,0 +1,3 @@
+ArquivoEditado peloMestre
+Arquivo Editado pelo verdadeiro Mestre
+Alteration
