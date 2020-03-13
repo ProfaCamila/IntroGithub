@@ -1,5 +1,10 @@
+So vai
+
 <<<<<<< HEAD
+<<<<<<< HEAD
+dorime
 abacate
 
+>>>>>>> ef8d14fe7b831cc91612897cc04dd85dcddf3610
 Azucrim
 >>>>>>> 7403c944396c37fd240db19522fbb105095dda6c
